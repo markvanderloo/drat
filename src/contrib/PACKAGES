@@ -1,0 +1,9 @@
+Package: stringdist
+Version: 0.9.3
+Depends: R (>= 2.15.3)
+Imports: parallel, methods
+Suggests: testthat
+License: GPL-3
+MD5sum: 4757d54b7e8f1091794e3b6280639e34
+NeedsCompilation: yes
+

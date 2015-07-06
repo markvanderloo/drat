@@ -7,3 +7,12 @@ License: GPL-3
 MD5sum: 4757d54b7e8f1091794e3b6280639e34
 NeedsCompilation: yes
 
+Package: validate
+Version: 0.0.1
+Depends: R (>= 3.0.0)
+Imports: methods, settings
+Suggests: testthat
+License: GPL-3
+MD5sum: 8e5be8b729fc499a627f078e9e259cc4
+NeedsCompilation: yes
+

@@ -1,9 +1,8 @@
 Package: hashr
-Version: 0.0.1
-Depends: R (>= 2.15.3)
+Version: 0.1.0
 Suggests: testthat
 License: GPL-3
-MD5sum: 22ac3e083384e456e7d5bcba69e1deb9
+MD5sum: 6f32ac22aa582bbb51cf657aaab297f9
 NeedsCompilation: yes
 
 Package: stringdist

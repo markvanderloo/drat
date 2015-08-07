@@ -11,7 +11,7 @@ Depends: R (>= 2.15.3)
 Imports: parallel, methods
 Suggests: testthat
 License: GPL-3
-MD5sum: 77d930e0bcf5f8436154ca878ee3d25d
+MD5sum: c82e34471a4d148eed598a7ea931df0c
 NeedsCompilation: yes
 
 Package: validate

@@ -8,10 +8,10 @@ NeedsCompilation: yes
 Package: stringdist
 Version: 0.9.3
 Depends: R (>= 2.15.3)
-Imports: parallel, methods
+Imports: parallel
 Suggests: testthat
 License: GPL-3
-MD5sum: c82e34471a4d148eed598a7ea931df0c
+MD5sum: 337e366e3212f5120f0c0596afd8ce8e
 NeedsCompilation: yes
 
 Package: validate

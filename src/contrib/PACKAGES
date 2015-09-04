@@ -1,9 +1,8 @@
 Package: hashr
-Version: 0.0.1
-Depends: R (>= 2.15.3)
+Version: 0.1.0
 Suggests: testthat
 License: GPL-3
-MD5sum: 22ac3e083384e456e7d5bcba69e1deb9
+MD5sum: 6f32ac22aa582bbb51cf657aaab297f9
 NeedsCompilation: yes
 
 Package: stringdist
@@ -19,7 +18,7 @@ Package: supral
 Version: 0.1.0
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 7564bc50a105621f8ccb6695fc6b7209
+MD5sum: 1e781eaf2b178f0ba681d19019941358
 NeedsCompilation: yes
 
 Package: validate

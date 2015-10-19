@@ -14,12 +14,12 @@ MD5sum: abf4a4ee3d2e78de89719b8cc17b73ab
 NeedsCompilation: yes
 
 Package: stringdist
-Version: 0.9.3
+Version: 0.9.4
 Depends: R (>= 2.15.3)
 Imports: parallel
 Suggests: testthat
 License: GPL-3
-MD5sum: 337e366e3212f5120f0c0596afd8ce8e
+MD5sum: 085addbfc61fec3701cea469e4ae51fb
 NeedsCompilation: yes
 
 Package: supral

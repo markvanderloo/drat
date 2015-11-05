@@ -13,6 +13,14 @@ License: GPL-3
 MD5sum: abf4a4ee3d2e78de89719b8cc17b73ab
 NeedsCompilation: yes
 
+Package: settings
+Version: 0.2.4
+Imports: grDevices, graphics
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: fd264d3af719788bb178e56ffad4a202
+NeedsCompilation: no
+
 Package: stringdist
 Version: 0.9.5
 Depends: R (>= 2.15.3)

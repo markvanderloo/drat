@@ -27,7 +27,7 @@ Depends: R (>= 2.15.3)
 Imports: parallel
 Suggests: testthat
 License: GPL-3
-MD5sum: b3fb81975507a6a4f91ae79e58780c7b
+MD5sum: c115e1f5e59f04d14369f24263d9c6b7
 NeedsCompilation: yes
 
 Package: supral

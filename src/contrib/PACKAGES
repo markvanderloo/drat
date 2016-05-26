@@ -13,6 +13,15 @@ License: GPL-3
 MD5sum: abf4a4ee3d2e78de89719b8cc17b73ab
 NeedsCompilation: yes
 
+Package: rtrim
+Version: 0.0.1
+Depends: R (>= 2.15.3)
+Imports: methods, utils
+Suggests: testthat
+License: EUPL
+MD5sum: 5842c63c0092bb897e290cd6853a3a7d
+NeedsCompilation: no
+
 Package: settings
 Version: 0.2.4
 Imports: grDevices, graphics

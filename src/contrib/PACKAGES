@@ -1,10 +1,3 @@
-Package: gower
-Version: 0.0.1
-Suggests: testthat, knitr, rmarkdown
-License: GPL-3
-MD5sum: cc9f3772bc6c43e1ac7973b899ac27bf
-NeedsCompilation: yes
-
 Package: hashr
 Version: 0.0.1
 Depends: R (>= 2.15.3)
@@ -22,11 +15,10 @@ NeedsCompilation: yes
 
 Package: rtrim
 Version: 0.0.1
-Depends: R (>= 2.15.3)
-Imports: methods, utils
+Imports: methods, utils, stats, graphics, grDevices
 Suggests: testthat
 License: EUPL
-MD5sum: 5842c63c0092bb897e290cd6853a3a7d
+MD5sum: 24e0efc7db1e0a647c6388e0b466ad82
 NeedsCompilation: no
 
 Package: settings

@@ -23,9 +23,9 @@ NeedsCompilation: yes
 Package: rtrim
 Version: 0.0.1
 Imports: methods, utils, stats, graphics, grDevices
-Suggests: testthat
+Suggests: testthat, knitr, rmarkdown
 License: EUPL
-MD5sum: 24e0efc7db1e0a647c6388e0b466ad82
+MD5sum: 36583634969f7eca468853f32d73e758
 NeedsCompilation: no
 
 Package: settings

@@ -1,8 +1,8 @@
 Package: gower
-Version: 0.1.0
+Version: 0.1.1
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 0ec896280ccef770a6d4128dae5a9427
+MD5sum: 1d6b8024e958e432415f7ee96aecb0f6
 NeedsCompilation: yes
 
 Package: hashr

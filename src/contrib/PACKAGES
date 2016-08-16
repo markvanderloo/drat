@@ -36,6 +36,14 @@ License: GPL-3
 MD5sum: fd264d3af719788bb178e56ffad4a202
 NeedsCompilation: no
 
+Package: simputation
+Version: 0.0.0.1
+Imports: stats, MASS, rpart, gower, randomForest
+Suggests: testthat
+License: GPL-3
+MD5sum: e3f26cab398442e32ac2e94f05b12438
+NeedsCompilation: yes
+
 Package: stringdist
 Version: 0.9.5
 Depends: R (>= 2.15.3)

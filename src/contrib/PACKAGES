@@ -41,7 +41,7 @@ Version: 0.0.0.1
 Imports: stats, MASS, rpart, gower, randomForest
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 64943674e38161cd803ff28908d29e74
+MD5sum: 3b8ee994ce69130a33e9f8ea19551340
 NeedsCompilation: yes
 
 Package: stringdist

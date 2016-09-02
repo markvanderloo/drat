@@ -39,9 +39,9 @@ NeedsCompilation: no
 Package: simputation
 Version: 0.0.0.1
 Imports: stats, MASS, rpart, gower, randomForest
-Suggests: testthat
+Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: e3f26cab398442e32ac2e94f05b12438
+MD5sum: 64943674e38161cd803ff28908d29e74
 NeedsCompilation: yes
 
 Package: stringdist

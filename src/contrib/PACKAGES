@@ -21,11 +21,11 @@ MD5sum: abf4a4ee3d2e78de89719b8cc17b73ab
 NeedsCompilation: yes
 
 Package: rtrim
-Version: 0.9.0
+Version: 1.0.1
 Imports: methods, utils, stats, graphics, grDevices
 Suggests: testthat, knitr, rmarkdown
 License: EUPL
-MD5sum: bc677d3c9fd8f540d6454a3cd190c38d
+MD5sum: 5eeb2cb03f969aeaa7ecf36f3258806b
 NeedsCompilation: no
 
 Package: settings

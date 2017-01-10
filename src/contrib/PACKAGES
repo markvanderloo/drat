@@ -38,10 +38,11 @@ NeedsCompilation: no
 
 Package: simputation
 Version: 0.2.1
-Imports: stats, MASS, rpart, gower, randomForest, glmnet
-Suggests: testthat, knitr, rmarkdown, dplyr, VIM
+Imports: stats, utils, MASS, rpart, gower
+Suggests: testthat, knitr, rmarkdown, dplyr, VIM, randomForest, glmnet,
+        missForest
 License: GPL-3
-MD5sum: ea69d73df1f4f4f60fc14f539e1aea87
+MD5sum: 8e8d37095a4d306dc7db645ff25e4b60
 NeedsCompilation: yes
 
 Package: stringdist

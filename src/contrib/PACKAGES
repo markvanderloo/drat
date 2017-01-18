@@ -40,9 +40,9 @@ Package: simputation
 Version: 0.2.1
 Imports: stats, utils, MASS, rpart, gower
 Suggests: testthat, knitr, rmarkdown, dplyr, VIM, randomForest, glmnet
-        , missForest, Amelia
+        , missForest, Amelia, norm
 License: GPL-3
-MD5sum: 08db3c7a9df1ab2643446244bc47bdbb
+MD5sum: f30ab9e10e98fb5750f5c25183309a4c
 NeedsCompilation: yes
 
 Package: stringdist

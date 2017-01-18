@@ -42,7 +42,7 @@ Imports: stats, utils, MASS, rpart, gower
 Suggests: testthat, knitr, rmarkdown, dplyr, VIM, randomForest, glmnet
         , missForest, Amelia, norm
 License: GPL-3
-MD5sum: f30ab9e10e98fb5750f5c25183309a4c
+MD5sum: be92b0321af0710de7b47c474dc725a3
 NeedsCompilation: yes
 
 Package: stringdist

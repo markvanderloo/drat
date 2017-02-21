@@ -37,12 +37,12 @@ MD5sum: fd264d3af719788bb178e56ffad4a202
 NeedsCompilation: no
 
 Package: simputation
-Version: 0.2.1
+Version: 0.2.2
 Imports: stats, utils, MASS, rpart, gower
 Suggests: testthat, knitr, rmarkdown, dplyr, VIM, randomForest, glmnet
-        , missForest, Amelia, norm
+        , missForest, norm
 License: GPL-3
-MD5sum: be92b0321af0710de7b47c474dc725a3
+MD5sum: e43e80b3f05ab2c87983aca50a2ab886
 NeedsCompilation: yes
 
 Package: stringdist

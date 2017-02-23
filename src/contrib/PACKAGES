@@ -1,10 +1,10 @@
 Package: deductive
 Version: 0.1.2
 Depends: R (>= 3.2.0)
-Imports: methods, lintools (>= 0.1.1.1), validate, stringdist
+Imports: methods, lintools (>= 0.1.1.2), validate, stringdist
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 7d4b7a3a8f7a687b821284436ba8e2c4
+MD5sum: 1c7817bd181831d6dd319f68521127cf
 NeedsCompilation: yes
 
 Package: gower

@@ -23,10 +23,11 @@ MD5sum: 22ac3e083384e456e7d5bcba69e1deb9
 NeedsCompilation: yes
 
 Package: lintools
-Version: 0.0.1
+Version: 0.1.1.4
+Imports: utils
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: abf4a4ee3d2e78de89719b8cc17b73ab
+MD5sum: 01baa0c47492cf430c777d1cd9427f78
 NeedsCompilation: yes
 
 Package: rtrim

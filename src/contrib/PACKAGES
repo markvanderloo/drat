@@ -4,7 +4,7 @@ Depends: R (>= 3.2.0)
 Imports: methods, lintools (>= 0.1.1.2), validate, stringdist
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 1c7817bd181831d6dd319f68521127cf
+MD5sum: a74c5d4bb0bf6bb0b6fb07d8f7da90a1
 NeedsCompilation: yes
 
 Package: gower
@@ -79,4 +79,3 @@ Suggests: testthat
 License: GPL-3
 MD5sum: 8e5be8b729fc499a627f078e9e259cc4
 NeedsCompilation: yes
-

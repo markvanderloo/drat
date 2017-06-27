@@ -81,10 +81,11 @@ MD5sum: 1e781eaf2b178f0ba681d19019941358
 NeedsCompilation: yes
 
 Package: validate
-Version: 0.0.1
-Depends: R (>= 3.0.0)
-Imports: methods, settings
-Suggests: testthat
+Version: 0.1.8
+Depends: R (>= 3.1.3), methods
+Imports: graphics, settings, yaml
+Suggests: testthat, knitr
+Enhances: lumberjack
 License: GPL-3
-MD5sum: 8e5be8b729fc499a627f078e9e259cc4
+MD5sum: 633c484224582546b0c868bbd157be94
 NeedsCompilation: yes

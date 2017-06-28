@@ -39,6 +39,15 @@ License: GPL-3
 MD5sum: 01baa0c47492cf430c777d1cd9427f78
 NeedsCompilation: yes
 
+Package: rspa
+Version: 0.2.2
+Depends: R (>= 2.13.0)
+Imports: graphics, stats, validate, lintools
+Suggests: editrules, knitr, testthat
+License: GPL-3
+MD5sum: fc402fd7337225b0b6699abf016794b7
+NeedsCompilation: yes
+
 Package: rtrim
 Version: 1.0.2
 Imports: methods, utils, stats, graphics, grDevices

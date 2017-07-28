@@ -16,6 +16,12 @@ License: GPL-3
 MD5sum: a74c5d4bb0bf6bb0b6fb07d8f7da90a1
 NeedsCompilation: yes
 
+Package: dircreate
+Version: 0.1.0
+License: GPL-3
+MD5sum: d6c8d93176c888cec70c97e51985b39e
+NeedsCompilation: no
+
 Package: gower
 Version: 0.1.1
 Suggests: testthat, knitr, rmarkdown

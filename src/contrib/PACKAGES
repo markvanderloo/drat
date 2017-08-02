@@ -102,5 +102,5 @@ Imports: graphics, settings, yaml
 Suggests: testthat, knitr, rmarkdown
 Enhances: lumberjack
 License: GPL-3
-MD5sum: d106ca379401a89e1af82d2e6d5f2c3f
+MD5sum: 37028935e50188183ce2007db099b290
 NeedsCompilation: yes

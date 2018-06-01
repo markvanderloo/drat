@@ -71,12 +71,12 @@ MD5sum: b07776fc63c9c9d9e140443787604959
 NeedsCompilation: yes
 
 Package: stringdist
-Version: 0.9.5
+Version: 0.9.5.0
 Depends: R (>= 2.15.3)
 Imports: parallel
 Suggests: testthat
 License: GPL-3
-MD5sum: c115e1f5e59f04d14369f24263d9c6b7
+MD5sum: a1e5dd501a7dc130417cb554a900a3fd
 NeedsCompilation: yes
 
 Package: supral

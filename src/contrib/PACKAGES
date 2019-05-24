@@ -11,7 +11,7 @@ Package: tinytest
 Version: 0.9.4
 Imports: utils
 License: GPL-3
-MD5sum: c7277a773a7d9ddd9e9a8a6e131b1869
+MD5sum: 40c60ec41025d996b62c342b90672ba8
 NeedsCompilation: no
 
 Package: validate

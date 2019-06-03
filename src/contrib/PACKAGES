@@ -1,17 +1,8 @@
-Package: stringdist
-Version: 0.9.5.0
-Depends: R (>= 2.15.3)
-Imports: parallel
-Suggests: testthat
-License: GPL-3
-MD5sum: a1e5dd501a7dc130417cb554a900a3fd
-NeedsCompilation: yes
-
 Package: tinytest
 Version: 0.9.4
 Imports: utils
 License: GPL-3
-MD5sum: 40c60ec41025d996b62c342b90672ba8
+MD5sum: 249faa992552560f18ec52b89579740d
 NeedsCompilation: no
 
 Package: validate
